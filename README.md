@@ -1,15 +1,24 @@
 # Vue Task Manager
 
-Task manager application built with Vue 3 and Composition API.
+Task manager application built with Vue 3, Pinia, and TypeScript.
 
 ## Features
-- Vue 3 Composition API
-- Reactive state management
-- Task CRUD operations
+
+- ✅ Task CRUD operations
+- 📊 State management with Pinia
+- 🧭 Vue Router integration
+- 🎨 Modern Composition API
+- 🧪 Vitest testing
 
 ## Installation
+
 ```bash
 npm install
 npm run dev
 ```
 
+## Testing
+
+```bash
+npm test
+```
